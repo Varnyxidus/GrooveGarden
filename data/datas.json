@@ -1,0 +1,67 @@
+{
+    "albums" : [
+        {
+            "id" : "AL001",
+            "name" : "PartyNextDoor 4",
+            "artist" : "PartyNextDoor",
+            "category" : "R&B",
+            "price" : 9.99
+        },
+        {
+            "id" : "AL002",
+            "name" : "Bryson Tiller",
+            "artist" : "Bryson Tiller",
+            "category" : "R&B",
+            "price" : 13.98
+        },
+        {
+            "id" : "AL003",
+            "name" : "SOS Deluxe:LANA",
+            "artist" : "SZA",
+            "category" : "R&B",
+            "price" : 14.99
+        },
+        {
+            "id" : "AL004",
+            "name" : "Eternal Sunshine",
+            "artist" : "Ariana Grande",
+            "category" : "Pop",
+            "price" : 10.99
+        },
+        {
+            "id" : "AL005",
+            "name" : "Short n' Sweet",
+            "artist" : "Sabrina Carpenter",
+            "category" : "Pop",
+            "price" : 9.98
+        },
+        {
+            "id" : "AL006",
+            "name" : "Charm",
+            "artist" : "Clairo",
+            "category" : "Pop",
+            "price" : 11.50
+        },
+        {
+            "id" : "AL007",
+            "name" : "GNX",
+            "artist" : "Kendrick Lamar",
+            "category" : "Hiphop",
+            "price" : 13.98
+        },
+        {
+            "id" : "AL008",
+            "name" : "Chromakopia",
+            "artist" : "Tyler The Creator",
+            "category" : "Hiphop",
+            "price" : 12.98
+        },
+        {
+            "id" : "AL009",
+            "name" : "Alligator Bites Never Heal",
+            "artist" : "Doechii",
+            "category" : "Hiphop",
+            "price" : 10.99
+        }
+    ]
+}

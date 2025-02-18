@@ -1,0 +1,13 @@
+#root{
+  height: 100%;
+}
+
+html, body{
+  margin: 0;
+  height: 100%;
+}
+
+.MuiBox-root.css-0, .main.main-cart{
+  padding-bottom: 0px;
+  height: 100%;
+}
