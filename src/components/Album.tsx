@@ -12,8 +12,7 @@ type PropsType = {
 }
 
 const Album = ({album, dispatch, REDUCER_ACTIONS, inCart}: PropsType): ReactElement =>{
-    const img: string = new URL('./images/' + album.id + '.jpg', import.meta.url).href
-    console.log(img)
+    const img: string = new URL(`../images/${album.id}.jpg`, import.meta.url).href
 
     const onAddToCart = () => dispatch({ type: REDUCER_ACTIONS.ADD, payload: {...album, qty: 1}})
 
